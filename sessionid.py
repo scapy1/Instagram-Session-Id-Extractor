@@ -1,4 +1,5 @@
 import os
+os.system('pip install NamasteiG')
 os.system('pip install requests')
 os.system('pip install uuid')
 os.system('clear')
