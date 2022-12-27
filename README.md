@@ -2,6 +2,7 @@
 this helps you to extract session id of your instagram account 
 #output
 
+![IMG_20221224_232502](https://user-images.githubusercontent.com/121354798/209700141-13b95d9f-e7aa-4d91-b17d-8652d3116926.jpg)
 
 
 # Installation 
