@@ -20,7 +20,7 @@ this helps you to extract session id of your instagram account
 # Termux Installation
 1 - git clone https://github.com/scapy1/Instagram-Session-Id-Extractor.git
 
-2 - cd Instagram-Session-Id-Extractor 
-3 - python3 sessionid.py
-4 - Now Put Your Details 
-5 - then will extract session id 
+2 - <br>cd Instagram-Session-Id-Extractor</br>
+3 - <br>python3 sessionid.py</br>
+4 - <br> Now Put Your Details </br>
+5 - <br>then will extract session id </br>
