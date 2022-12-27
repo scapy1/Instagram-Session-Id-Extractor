@@ -23,4 +23,4 @@ this helps you to extract session id of your instagram account
 2 - <br>cd Instagram-Session-Id-Extractor</br>
 3 - <br>python3 sessionid.py</br>
 4 - <br> Now Put Your Details </br>
-5 - <br>then will extract session id </br>
+5 - <br>then it will extract session id </br>
